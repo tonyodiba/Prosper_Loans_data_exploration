@@ -1,0 +1,2 @@
+# Prosper_Loans_data_exploration
+This document explores the prosper Loans dataset. The data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. The data set was last updated on 03/11/2014 In this this project we will explore the characteristics of variables that can affect the loan status and to get some ideas about the relationships among multiple variables using summary statistics and data visualizations.
