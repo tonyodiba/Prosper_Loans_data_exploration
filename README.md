@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tonyodiba/Prosper_Loans_data_exploration.git/master)
+
 # Prosper Loan Data Exploration
 ## by Anthony Odiba
 
@@ -7,8 +9,11 @@
 This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. The dataset can be found [here](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1554484977406000), This [data dictionary](https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&ust=1554484977407000) explains the variables in the data set.
 
 ## Note: 
-> The files are too large for github to render so please use https://htmlpreview.github.io/ to view them.
-> Simply copy the link to the file you want to view, and paste it in the url bar provided in the page.
+**The files are too large for github to render so please note important instructions below**
+> 1. click this [link](https://mybinder.org/v2/gh/tonyodiba/Prosper_Loans_data_exploration.git/master) if you didn't notice binder badge above
+
+> 2.  Alternatively if you like doing things the harder way use [html preview](https://htmlpreview.github.io/) to view them.
+>> To do 2 above, simply copy the link to the file you want to view, and paste it in the url bar provided in the page.
 
 ## Visualisation Libraries Used
 Apart from the usual suspects, i.e seaborn, matplot, etc, I played around with **folium, plotly and plotly express** to come up with some beautiful and useful visualisations for this project.
