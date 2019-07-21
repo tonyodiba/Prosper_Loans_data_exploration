@@ -14,7 +14,11 @@ This data set contains 113,937 loans with 81 variables on each loan, including l
 > - [x] 2. Alternatively if you like doing things the harder way use [html preview](https://htmlpreview.github.io/) to view them.
    > > * To do 2 above, simply copy the link to the file you want to view, paste in the url bar provided on the page
 > - [x] 3. My final .ipynb was too large(~64MB), obviously too large to upload to github so i used [Git Large File Storage](https://git-lfs.github.com/). The instructions on how to do this can be seen on the site.
-> - [ ] I think there are some ways to reduce the file size by dropping some columns of the dataset used. I haven't explored this.
+> - [ ] 4. I think there are some ways to reduce the file size by dropping some columns of the dataset used. I haven't explored this.
+> - [x] 5. Because of the large plotly plots, the cell where the plots are run keep timing out. [This helped](https://github.com/jupyter/notebook/issues/2287), as well as [this](https://stackoverflow.com/questions/43288550/iopub-data-rate-exceeded-in-jupyter-notebook-when-viewing-image).
+> - [x] 6. I cloned this repo to my jupyterLab and these three articles helped in keeping things sane. Click [here](https://stackoverflow.com/questions/3876977/update-git-branches-from-master/28505516), [here next](https://remarkablemark.org/blog/2017/06/02/git-update-branch/) and lastly [here](https://www.neonscience.org/git-setup-remote).
+
+> Lastly, this [git article](https://help.github.com/en/articles/moving-a-file-to-a-new-location-using-the-command-line) helped me learn how to move files and folders around.
 ***
 ## Visualisation Libraries Used
 Apart from the usual suspects, i.e seaborn, matplot, etc, I played around with **folium, plotly and plotly express** to come up with some beautiful and useful visualisations for this project.
