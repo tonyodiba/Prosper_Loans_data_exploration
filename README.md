@@ -7,6 +7,10 @@
 ## Dataset
 
 This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. The dataset can be found [here](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1554484977406000), This [data dictionary](https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&ust=1554484977407000) explains the variables in the data set.
+
+## **Preview**
+![](https://github.com/tonyodiba/Prosper_Loans_data_exploration/blob/master/files/images/e7xHxCtWtR.gif)
+
 ***
 ## Note: 
 **The files are too large for github to render so please note important instructions below**
@@ -33,3 +37,5 @@ For the presentation, I focus on viriables that had an effect on the ProsperScor
 
 An interesting addition is a Parallel plot showing interaction of 9 different variables.
 
+## Some More Parallel Plot
+![](https://github.com/tonyodiba/Prosper_Loans_data_exploration/blob/master/files/images/2019-07-22%2000.44.03.gif)
