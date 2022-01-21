@@ -11,5 +11,5 @@ plotly==3.10.0
 pandas==0.23.4
 Fiona==1.8.6
 branca==0.3.1
-ipython==7.6.1
+ipython==7.16.3
 Pillow==6.1.0
